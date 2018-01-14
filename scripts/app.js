@@ -1,7 +1,9 @@
 requirejs.config({
   paths: {
     app: './app',
-    lib: './lib'
+    lib: './lib',
+    templates: '../templates',
+    text: 'lib/text'
   }
 });
 
